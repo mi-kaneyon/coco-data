@@ -19,3 +19,6 @@ Data
 3. jsonreid.py  is changing json file id as you like to optimize object detection accuracy.  
 
 All file you can change target in the code. you can realize above function.
+
+# command line for adjust_json_paths.py  
+python adjust_json_paths.py ./"input path"/"input".json ./"output path"/"output".json ./"root folder"/  
