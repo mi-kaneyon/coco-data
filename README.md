@@ -21,4 +21,14 @@ Data
 All file you can change target in the code. you can realize above function.
 
 # command line for adjust_json_paths.py  
+```
+
 python adjust_json_paths.py ./"input path"/"input".json ./"output path"/"output".json ./"root folder"/  
+
+```
+## extraid_remove.py
+- If you want to remove extra id from json file, please  change in the code path.
+```
+python extraid_remove.py
+
+```
