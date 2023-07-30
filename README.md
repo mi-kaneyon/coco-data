@@ -32,3 +32,7 @@ python adjust_json_paths.py ./"input path"/"input".json ./"output path"/"output"
 python extraid_remove.py
 
 ```
+
+# coco-corrector
+## Jupyter notebook base coco annotator export file optimizwer.
+
