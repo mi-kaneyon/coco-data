@@ -8,3 +8,8 @@
 
 
   ![checkResult](https://github.com/mi-kaneyon/coco-data/blob/main/coco-corrector/senchople.png)
+
+
+# update(1st Aug 2023)
+- simple CLI command version is released.
+- no sample image display, convert file data only.
