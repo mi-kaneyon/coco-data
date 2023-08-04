@@ -35,4 +35,6 @@ python extraid_remove.py
 
 # coco-corrector
 ## Jupyter notebook base coco annotator export file optimizwer.
+- 日本語説明文はサブフォルダのJPのついたものをご覧ください。
+- 英語無くても十分使えるような造りではあります。
 
