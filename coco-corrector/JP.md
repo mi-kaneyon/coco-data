@@ -3,3 +3,6 @@
 - Jupyter lab , notebookで動作、jsonファイルを修正し、最後にサンプル表示します。
 
   ![checkResult](https://github.com/mi-kaneyon/coco-data/blob/main/coco-corrector/senchople.png)
+
+# advバージョン追加
+## ファイルのパスを実環境に変更可能
