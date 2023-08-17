@@ -35,6 +35,12 @@ python extraid_remove.py
 
 # coco-corrector
 ## Jupyter notebook base coco annotator export file optimizwer.
+- Generate coco format json file which is optimized for MMddetection.
+- It is convert and check suits
+- jupyter notebook file is converter and checker.
+- coco_separator.py is file separator for training.
+
+## JP
 - 日本語説明文はサブフォルダのJPのついたものをご覧ください。
 - 英語無くても十分使えるような造りではあります。
 
