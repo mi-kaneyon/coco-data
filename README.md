@@ -33,7 +33,7 @@ python extraid_remove.py
 
 ```
 
-# coco-corrector
+# coco-corrector (NEW!)
 ## Jupyter notebook base coco annotator export file optimizwer.
 - Generate coco format json file which is optimized for MMddetection.
 - It is convert and check suits
