@@ -40,6 +40,9 @@ python extraid_remove.py
 - jupyter notebook file is converter and checker.
 - coco_separator.py is file separator for training.
 
+## coco format correction tools
+- coco_structure_correction.py: if you cannot train, check your json file structure.
+
 ## JP
 - 日本語説明文はサブフォルダのJPのついたものをご覧ください。
 - 英語無くても十分使えるような造りではあります。
