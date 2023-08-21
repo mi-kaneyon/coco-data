@@ -1,5 +1,8 @@
 # coco-data
 
+## Update
+- coco format corrector coco_structure_correction.py uploaded.
+
 ## json file generated coco annotator file convert and check suits.
 
 1. adjust_json_paths.py coco file separater from json file which is exported by coco annotator for actual folder file saving information
