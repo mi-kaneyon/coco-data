@@ -48,6 +48,19 @@ python extraid_remove.py
 ## coco format correction tools
 - coco_structure_correction.py: if you cannot train, check your json file structure.
 
+# coco_correctionv2.py
+- correction coco format json file which is exported from coco annotator
+- At the same time, generate train and val directory with train.json and val json
+- coco annotatorからExportしたファイルの適正化とファイルの自動振り分け＋json separate
+
+## Usage
+1. End of code is setting area, You can modify your environment.
+
+```
+python coco_correctionv2.py
+
+```
+
 ## JP
 - 日本語説明文はサブフォルダのJPのついたものをご覧ください。
 - 英語無くても十分使えるような造りではあります。
