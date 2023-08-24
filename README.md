@@ -53,6 +53,10 @@ python extraid_remove.py
 - At the same time, generate train and val directory with train.json and val json
 - coco annotatorからExportしたファイルの適正化とファイルの自動振り分け＋json separate
 
+## Jsoncorrector.ipynb
+- check json file modification for annotatiion application to optimize.
+- Juppyter notebook format. So it is not necessary high skill for us.
+
 ## Usage
 1. End of code is setting area, You can modify your environment.
 
