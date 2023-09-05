@@ -1,8 +1,13 @@
 # coco-data
 
-## Update
+## Update(New)
+- Add  t2restruct_coco_json.py
+- It is coco annotator exported json file structure converter (other type)
+
+### Previous Update
 - coco format corrector coco_structure_correction.py uploaded.
 - coco_checks ：coco format elements checker.
+
 
 ## json file generated coco annotator file convert and check suits.
 
