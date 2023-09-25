@@ -1,6 +1,26 @@
 # coco-data
 
-## Update(New)
+## Update! (25 Sep 2023)
+**cocoanote_checker.py **
+
+'''
+python cocoanote_checker.py
+'''
+
+### parameter
+- you can modify your coco json file path and image path in end of code
+
+'''
+# Usage
+json_path = "train/train.json"  # change your coco json file and path
+image_dir = "train"  # change your image directory
+display_annotations(json_path, image_dir)
+
+'''
+
+
+
+## new tools
 - Add  t2restruct_coco_json.py
 - It is coco annotator exported json file structure converter (other type)
 
