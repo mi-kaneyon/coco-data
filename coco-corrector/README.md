@@ -5,6 +5,13 @@
 - you can modify your coco json file as actual path
 
 '''
+python coco_correctionv2.py
+
+'''
+
+
+'''
+
 # path setting
 input_file = 'cup.json'
 train_output = 'cup/train/train.json'
