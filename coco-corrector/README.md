@@ -4,13 +4,13 @@
 ### coco json file separate properly and generate json file tool
 - you can modify your coco json file as actual path
 
-'''
+```
 python coco_correctionv2.py
 
-'''
+```
 
 
-'''
+```
 
 # path setting
 input_file = 'cup.json'
@@ -18,7 +18,7 @@ train_output = 'cup/train/train.json'
 val_output = 'cup/val/val.json'
 image_dir = 'cup'
 
-'''
+```
 
 ## coco annotator generated coco format file optimizer
 - It is working on the Jupyter notebook
